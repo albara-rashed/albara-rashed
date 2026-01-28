@@ -24,7 +24,7 @@ This creates a **natural efficiency ceiling**, even in well-optimized systems.
 
 **Figure:**  
 - observed training cost reduction
-(https://github.com/albara-rashed/albara-rashed/raw/main/Effective_training_cost_vs_GPU_count_(public benchmark).png)
+(https://github.com/albara-rashed/albara-rashed/raw/main/Effective_training_cost_vs_GPU_count_(public_benchmark).png)
 -this  chart shows the 40-60% reduction in effective GPU training cost on public benchmarks 
 when infrastructure-level problem constraints are addreseed 
 ---
