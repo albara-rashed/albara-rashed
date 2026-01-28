@@ -23,8 +23,7 @@ This creates a **natural efficiency ceiling**, even in well-optimized systems.
 
 
 **Figure:**  
-Performance efficiency as a function of GPU count.  
-The curve demonstrates early gains followed by saturation and diminishing returns.
+effective training cost vs GPU count (public data) 
 
 ---
 
