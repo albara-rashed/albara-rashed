@@ -20,7 +20,7 @@ This creates a **natural efficiency ceiling**, even in well-optimized systems.
 
 ## Visualization: GPU Scaling Efficiency
 
-![GPU Scaling Efficiency](gpu_scaling_efficiency.png)
+
 
 **Figure:**  
 Performance efficiency as a function of GPU count.  
